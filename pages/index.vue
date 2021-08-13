@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        Nuxt
+        Nuxt-ВС
       </h1>
       <div class="links">
         <a
